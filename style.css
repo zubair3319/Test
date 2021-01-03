@@ -1,0 +1,20 @@
+
+h1{
+    text-align: center;
+    color: #aa1717;
+}
+p{
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+    .fun{
+        color: #5903aa;
+    }
+    div{
+        border:5px solid #295dbd;
+        border-radius: 15px;
+        width: 400px;
+        margin: 30px ;
+        padding: 10px;
+        background-color: #295dbd;
+    }
